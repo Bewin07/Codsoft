@@ -1,4 +1,10 @@
 # Codsoft
 
-Virtual assistant, an ever-attentive digital companion designed to cater to your every command.
-This intuitive aide awaits your beck and call, ready to spring into action with just a prompt from you. Whether you're seeking the latest weather updates, in need of setting reminders for important tasks, or longing for a relaxing musical interlude, this virtual assistant is at your service. Its capabilities extend beyond mere functionality; it's equipped to engage in conversation, respond to inquiries, and execute tasks with precision. From providing insightful answers to your questions to seamlessly integrating with your smart home devices, this assistant enhances your daily life with unparalleled convenience. With a simple "Hello" to initiate and a courteous "Goodbye" as you part ways, it ensures every interaction is pleasant and effortless. This virtual assistant isn't just a tool; it's a trusted companion, empowering you to navigate through the complexities of modern life with ease and efficiency.
+Here are certain code for the activities or tasks given in codsoft intership 
+Batch - MARCH BATCH A42
+
+In this repository codes for the below mentioned tasks are available
+
+Task 1- CHATBOT WITH RULE-BASED RESPONSES
+Task 2- TIC-TAC-TOE AI
+Task 5- FACE DETECTION AND RECOGNITION
